@@ -30,7 +30,7 @@
 
 		<div class="three column row" >
                     <div class="four wide orange column style-mainMenuL ">
-                           <img src="manager-ico.png" />
+                           <img src="img/manager-ico.png" />
                             <p>${pageContext.request.contextPath}</p>
 				<div>
                                     <a>    
